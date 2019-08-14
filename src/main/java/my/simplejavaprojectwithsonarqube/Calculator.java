@@ -1,6 +1,5 @@
 package my.simplejavaprojectwithsonarqube;
 
-package my.simplejavaprojectwithjacoco;
 import java.security.SecureRandom;
 public class Calculator {
 
